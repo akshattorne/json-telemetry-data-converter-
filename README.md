@@ -1,6 +1,6 @@
 # Data Format Converter
 
-A virtual internship task that normalizes IoT device data from two different JSON input formats into a single unified output format.
+A responsive web application that normalizes IoT device data from different JSON formats into one consistent schema for easier processing and analysis.
 
 **Live Demo:** https://akshattorne.github.io/json-telemetry-data-converter-/
 
