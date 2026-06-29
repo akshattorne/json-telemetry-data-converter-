@@ -2,7 +2,7 @@
 
 A virtual internship task that normalizes IoT device data from two different JSON input formats into a single unified output format.
 
-**Live Demo:** [GitHub Pages link here after you enable it]
+**Live Demo:** https://akshattorne.github.io/json-telemetry-data-converter-/
 
 ---
 
