@@ -6,6 +6,10 @@ A responsive web application that normalizes IoT device data from different JSON
 
 ---
 
+## 📸 Preview
+
+![Data Format Converter](./preview/json-data-at-preview.png)
+
 ## Project Structure
 
 ```
